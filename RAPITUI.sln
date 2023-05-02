@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAPITUI", "RAPITUI\RAPITUI.csproj", "{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAPITLibrary", "..\RAPITLibrary\RAPITLibrary\RAPITLibrary.csproj", "{5D218084-8EC2-47C2-AE5E-365CD9D667A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{4005FB4E-E0B6-41DA-B715-7EA90F1A41FF}.Release|ARM64.Build.0 = Release|ARM64
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Release|ARM64.ActiveCfg = Release|ARM64
+		{5D218084-8EC2-47C2-AE5E-365CD9D667A2}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB9D87F-C469-4277-A0AB-D0BB0B142609}
+	EndGlobalSection
+EndGlobal

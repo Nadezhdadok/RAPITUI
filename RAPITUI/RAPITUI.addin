@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RAPITUI.dll"</Assembly>
+		<AddInId>931362BB-FCB1-4ABB-897A-C6A6251F77D9</AddInId>
+		<FullClassName>RAPITUI.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>создание кнопки</Text>
+	</AddIn>
+</RevitAddIns>
